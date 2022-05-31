@@ -1,4 +1,4 @@
-# MuJoCo Physics
+# MuJoCo Physics with Physics AI
 
 <p>
   <a href="https://github.com/deepmind/mujoco/actions/workflows/build.yml?query=branch%3Amain" alt="GitHub Actions">
